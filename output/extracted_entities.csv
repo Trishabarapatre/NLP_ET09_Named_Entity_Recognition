@@ -1,0 +1,15 @@
+Entity,Label,Description
+Elon Musk,PERSON,"People, including fictional"
+California,GPE,"Countries, cities, states"
+2002,DATE,Absolute or relative dates or periods
+Tesla,ORG,"Companies, agencies, institutions, etc."
+Twitter,PERSON,"People, including fictional"
+$44 billion,MONEY,"Monetary values, including unit"
+October 2022,DATE,Absolute or relative dates or periods
+Apple Inc.,ORG,"Companies, agencies, institutions, etc."
+Cupertino,GPE,"Countries, cities, states"
+Steve Jobs,PERSON,"People, including fictional"
+1976,DATE,Absolute or relative dates or periods
+Barack Obama,PERSON,"People, including fictional"
+the United States,GPE,"Countries, cities, states"
+2009,DATE,Absolute or relative dates or periods
