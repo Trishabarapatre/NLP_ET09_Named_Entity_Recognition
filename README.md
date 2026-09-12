@@ -20,3 +20,8 @@ Named Entity Recognition (NER) is a fundamental NLP task used to extract structu
 - **spaCy** pre-trained NLP pipeline (`en_core_web_sm`) for Named Entity Recognition
 - Entity extraction and classification (PERSON, ORG, GPE, DATE, MONEY, etc.)
 - Visualization of extracted entities using `disp
+
+## Graphical User Interface (GUI)
+In addition to the command-line script, an interactive web-based GUI was built using Streamlit for a more user-friendly experience. The GUI allows users to enter any text and instantly view color-highlighted named entities along with a detailed table of extracted entities.
+
+### Steps to Run the GUI
